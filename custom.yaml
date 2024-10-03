@@ -1,0 +1,5 @@
+train: data/train/images
+val: data/val/images
+
+nc: 5
+names: ['vband','hoseclip','snappin','dataplate','endlink']
